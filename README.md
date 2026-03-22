@@ -1,4 +1,4 @@
-# LiSA – ReawakeR
+# LiSA – ReawakeR（feat. Felix）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
