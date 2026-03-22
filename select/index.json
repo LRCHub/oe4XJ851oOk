@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ReawakeR",
+  "base_track": "ReawakeR（feat. Felix）",
   "base_artist": "LiSA",
-  "createdAt": "2026-02-09T10:16:37.531079Z",
+  "createdAt": "2026-03-22T00:19:49.295567Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -15,10 +15,10 @@
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "ReawakeR",
-      "artist": "Lisa",
+      "title": "ReawakeR (feat. Felix of Stray Kids)",
+      "artist": "LiSA",
       "has_synced": true,
-      "path": "select/02_ReawakeR_Lisa.lrc"
+      "path": "select/02_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA.lrc"
     },
     {
       "id": "lrclib_3",
@@ -40,121 +40,107 @@
       "id": "lrclib_5",
       "source": "lrclib",
       "title": "ReawakeR (feat. Felix of Stray Kids)",
-      "artist": "LiSA",
+      "artist": "LiSA, Felix of Stray Kids",
       "has_synced": true,
-      "path": "select/05_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA.lrc"
+      "path": "select/05_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA,_Felix_of_Stray_Kids.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "ReawakeR",
-      "artist": "LiSA",
+      "title": "ReawakeR (feat. Felix of Stray Kids)",
+      "artist": "LiSA\u0000﻿",
       "has_synced": true,
-      "path": "select/06_ReawakeR_LiSA.lrc"
+      "path": "select/06_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA\u0000﻿.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
       "title": "ReawakeR (feat. Felix of Stray Kids)",
-      "artist": "LiSA, Felix of Stray Kids",
+      "artist": "LiSA",
       "has_synced": true,
-      "path": "select/07_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA,_Felix_of_Stray_Kids.lrc"
+      "path": "select/07_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "ReawakeR",
-      "artist": "LiSA feat. 필릭스",
+      "title": "ReawakeR (feat. Felix of Stray Kids) (Paused)",
+      "artist": "LiSA",
       "has_synced": true,
-      "path": "select/08_ReawakeR_LiSA_feat._필릭스.lrc"
+      "path": "select/08_ReawakeR_(feat._Felix_of_Stray_Kids)_(Paused)_LiSA.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "ReawakeR",
-      "artist": "LiSA feat. Lee Felix",
+      "title": "ReawakeR (feat. Felix of Stray Kids)",
+      "artist": "LiSA feat. Felix of Stray Kids",
       "has_synced": true,
-      "path": "select/09_ReawakeR_LiSA_feat._Lee_Felix.lrc"
+      "path": "select/09_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA_feat._Felix_of_Stray_Kids.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
       "title": "ReawakeR (feat. Felix of Stray Kids)",
-      "artist": "LiSA\u0000﻿",
+      "artist": "LiSA/Felix",
       "has_synced": true,
-      "path": "select/10_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA\u0000﻿.lrc"
+      "path": "select/10_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA_Felix.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "ReawakeR",
-      "artist": "LiSA feat.Felix of Stray Kids",
+      "title": "ReawakeR (feat.Felix of Stray Kids)",
+      "artist": "LiSA",
       "has_synced": true,
-      "path": "select/11_ReawakeR_LiSA_feat.Felix_of_Stray_Kids.lrc"
+      "path": "select/11_ReawakeR_(feat.Felix_of_Stray_Kids)_LiSA.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
       "title": "ReawakeR (feat. Felix of Stray Kids)",
-      "artist": "LiSA",
+      "artist": "LiSA, Felix",
       "has_synced": true,
-      "path": "select/12_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA.lrc"
+      "path": "select/12_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA,_Felix.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "ReawakeR",
-      "artist": "Lisa",
-      "has_synced": false,
-      "path": "select/13_ReawakeR_Lisa.txt"
+      "title": "ReawakeR feat. Felix of Stray Kids",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/13_ReawakeR_feat._Felix_of_Stray_Kids_LiSA.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "ReawakeR (feat. Felix of Stray Kids) (Paused)",
-      "artist": "LiSA",
+      "title": "ReawakeR (feat. Felix of Stray Kids)",
+      "artist": "LiSA & Felix of Stray Kids",
       "has_synced": true,
-      "path": "select/14_ReawakeR_(feat._Felix_of_Stray_Kids)_(Paused)_LiSA.lrc"
-    },
-    {
-      "id": "lrclib_15",
-      "source": "lrclib",
-      "title": "reawaker",
-      "artist": "lisa",
-      "has_synced": true,
-      "path": "select/15_reawaker_lisa.lrc"
-    },
-    {
-      "id": "lrclib_16",
-      "source": "lrclib",
-      "title": "ReawakeR -TV ver.- (feat.Felix of Stray Kids)",
-      "artist": "LiSA",
-      "has_synced": true,
-      "path": "select/16_ReawakeR_-TV_ver.-_(feat.Felix_of_Stray_Kids)_LiSA.lrc"
-    },
-    {
-      "id": "lrclib_17",
-      "source": "lrclib",
-      "title": "ReawakeR \"Solo Leveling Season 2\" OPENING - TV Size Version",
-      "artist": "Pharozen",
-      "has_synced": true,
-      "path": "select/17_ReawakeR__Solo_Leveling_Season_2__OPENING_-_TV_Size_Version_Pharozen.lrc"
-    },
-    {
-      "id": "lrclib_18",
-      "source": "lrclib",
-      "title": "ReawakeR -English TV ver.- (feat.Felix of Stray Kids)",
-      "artist": "LiSA",
-      "has_synced": true,
-      "path": "select/18_ReawakeR_-English_TV_ver.-_(feat.Felix_of_Stray_Kids)_LiSA.lrc"
+      "path": "select/14_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA_&_Felix_of_Stray_Kids.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ReawakeR",
-      "artist": "LiSA feat.Felix of Stray Kids",
+      "title": "ReawakeR (feat. Felix of Stray Kids)",
+      "artist": "LiSA",
       "has_synced": false,
-      "path": "select/pl_01_ReawakeR_LiSA_feat.Felix_of_Stray_Kids.txt"
+      "path": "select/pl_01_ReawakeR_(feat._Felix_of_Stray_Kids)_LiSA.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ReawakeR（feat. Felix）",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/localdb_01_ReawakeR(feat._Felix)_LiSA.lrc",
+      "repo_name": "oe4XJ851oOk"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ReawakeR（feat. Felix）",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/localdb_02_ReawakeR(feat._Felix)_LiSA.txt",
+      "repo_name": "IQnnVyYWSjQ"
     }
   ]
 }
